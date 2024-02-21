@@ -28,7 +28,7 @@ for (const btn of allSeats) {
         const ticketPrice = eachTicketPrice.innerText;
         const price = parseInt(ticketPrice);
 
-        //-----
+        //-------
         console.log(select, className, price);
 
         //--------
@@ -53,7 +53,7 @@ for (const btn of allSeats) {
         div.appendChild(p3);
 
         selectedContainer.appendChild(div);
-        
+
 
         // //--------Sorry brother i could not append child. I am totally blank now.  Today 21st Feb i was eagerly waiting for your live support session. But Alas! i did not get your help in my holiday . I am not complaining brother. This is my fault, that i could not submit properly on due time. Pray for me , so that i can make SCIC.----//--//
     
